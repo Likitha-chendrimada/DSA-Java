@@ -10,3 +10,4 @@ public class SumTwoNumbers{
         System.out.println("Sum of two numbers = "+ sum);
     }
 }
+
